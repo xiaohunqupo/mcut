@@ -2,9 +2,6 @@
 
 Gist: _A library for detecting and resolving intersections between two surface meshes._ 
 
-[![Windows](https://github.com/cutdigital/mcut/actions/workflows/windows.yml/badge.svg)](https://github.com/cutdigital/mcut/actions/workflows/windows.yml)
-[![MacOS](https://github.com/cutdigital/mcut/actions/workflows/macos.yml/badge.svg)](https://github.com/cutdigital/mcut/actions/workflows/macos.yml) [![Linux](https://github.com/cutdigital/mcut/actions/workflows/linux.yaml/badge.svg)](https://github.com/cutdigital/mcut/actions/workflows/linux.yaml)
-
 This project is called "MCUT" (short for 'mesh cutting'), and it provides functionality to perform robust geometry operations between surfaces, as shown below:
 
 <p align="center">
